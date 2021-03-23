@@ -1,0 +1,15 @@
+html {
+  padding: 0px;
+  margin: 0px;
+  background-color: #f9f1bf;
+}
+h1 {
+  text-align: center;
+}
+.BOTW img {
+  height: 400px;
+}
+.BOTW {
+  width: fit-content;
+  margin: auto;
+}

@@ -1,27 +1,22 @@
-/*
-Light color: rgb(249,241,191)
-Medium color: rgb(243,183,91)
-Dark color: rgb(205,128,42)
-*/
 * {
   padding: 0px;
   margin: 0px;
 }
 body {
-  background-color: rgb(249,241,191);
+  background-color: #f9f1bf;
 }
 .midden {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background-color: rgb(243,183,91);
+  background-color: #f3b75b;
   width: fit-content;
   height: fit-content;
 }
 .dik {
   font-weight: bold;
-  background-color:rgb(205,128,42)
+  background-color: #cd802a;
 }
 table {
   width: 75vw;
