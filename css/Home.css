@@ -13,3 +13,13 @@ h1 {
   width: fit-content;
   margin: auto;
 }
+/* mediaqueries */
+/* Mobile M */
+@media only screen and (min-width: 375px) {
+  .BOTW img {
+    height: 120px;
+  }
+}
+/* Mobile L */
+/* Tablet */
+/* Laptop */
